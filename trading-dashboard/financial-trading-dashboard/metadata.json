@@ -1,0 +1,5 @@
+{
+  "name": "Financial Trading Dashboard",
+  "description": "A comprehensive, light-themed financial trading dashboard inspired by modern stock and crypto trading platforms. It features a real-time market watch, portfolio overview, detailed stock charts, an order book, and an intuitive order placement interface.",
+  "requestFramePermissions": []
+}
